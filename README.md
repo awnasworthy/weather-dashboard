@@ -6,7 +6,7 @@
 Check the weather locally and abroad with the Weather Dashboard! Enter a city to see today's weather and a 5-Day forecast. 
 
 ## Built With
-* HTMl
+* HTML
 * CSS
 * JavaScript
 * OneWeather API
